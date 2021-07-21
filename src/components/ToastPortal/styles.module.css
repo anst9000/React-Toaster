@@ -1,0 +1,6 @@
+/* STYLES FOR COMPONENT ToastPortal */
+.toastContainer {
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+}

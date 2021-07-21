@@ -1,3 +1,3 @@
 export * from './App';
-export * from './Toast';
-export * from './ToastPortal';
+export * from "./ToastPortal";
+export * from "./Toast";
